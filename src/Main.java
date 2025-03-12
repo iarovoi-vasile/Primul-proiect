@@ -1,5 +1,5 @@
-import Pachet1.ClassB;
-import Pachet2.PrimulProiect;
+import pachet1.ClassB;
+import pachet2.PrimulProiect;
 
 public class Main {
     public static void main(String[] args) {

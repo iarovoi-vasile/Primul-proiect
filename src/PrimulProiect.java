@@ -1,4 +1,4 @@
-package Pachet2;
+package pachet2;
 
 public class PrimulProiect {
     int variabila;

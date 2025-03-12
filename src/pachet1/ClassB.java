@@ -1,4 +1,4 @@
-package Pachet1;
+package pachet1;
 
 public class ClassB {
     int d;
