@@ -1,7 +1,7 @@
 package pachet1;
 
 public class ClassB {
-    int d;
+   /* int d;
 
     public ClassB() {
 
@@ -18,5 +18,5 @@ public class ClassB {
 
     void valoare4() {
 
-    }
+    } */
 }
