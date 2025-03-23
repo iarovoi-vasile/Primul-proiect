@@ -16,6 +16,10 @@ public class Main {
         //   PrimulProiect ex7 = new PrimulProiect(4,""); // verifica daca anul este bisesct sau nu
         //   PrimulProiect ex8 = new PrimulProiect(0, 0f); // in dependenta de punctajul acordat afiseaza nota
         //   PrimulProiect ex9 = new PrimulProiect(false, 0); // verifica daca e student si daca are 18 ani primeste reducere
-             PrimulProiect ex10 = new PrimulProiect(""); // verifica cat de puternica este parola
+          //   PrimulProiect ex10 = new PrimulProiect(""); // verifica cat de puternica este parola
+
+        // *******
+        // ClassB.ex1();
+        ClassB.ex2();
     }
 }
